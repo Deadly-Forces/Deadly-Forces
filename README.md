@@ -50,13 +50,7 @@
         <img src="https://komarev.com/ghpvc/?username=Deadly-Forces&style=for-the-badge&color=9b59b6&label=PROFILE+MATRIX+INITIALIZED" alt="Matrix Counter"/>
     </a>
 </div>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
-</div>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 </div>
 
 
