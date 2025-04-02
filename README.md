@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Deadly-Forces&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
 </p>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Deadly-Forces&&style=flat-square" align="center" />
+</div>
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
     <p>I’m currently learning JavaScript / Advanced Python.</p>
