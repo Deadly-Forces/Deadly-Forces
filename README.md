@@ -28,25 +28,6 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://clipart-library.com/images/8iGoeRebT.png" alt="MySQL" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="MySQL" height="50" /></a>
 </h2>
-<section>
-    <h2>📊 GitHub Stats:</h2>
- </section>
-  <section style="padding: 20px;">
-<div align="center">
-
-<a href="https://github.com/Deadly-Forces">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deadly-Forces&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9b59b6&icon_color=9b59b6&text_color=FFFFFF&ring_color=9b59b6&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadly-Forces&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9b59b6&text_color=FFFFFF"/>
-</a>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deadly-Forces&theme=midnight-purple&hide_border=true&background=0D1117&ring=9b59b6&fire=FF3D00&currStreakLabel=9b59b6&sideLabels=9b59b6&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
 
 <!---
 Leisure-krish/Leisure-krish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
