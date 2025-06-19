@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Deadly-Forces&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
+  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
 </p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Deadly-Forces&&style=flat-square" align="center" />
