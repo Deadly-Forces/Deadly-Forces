@@ -1,7 +1,6 @@
 <div style="width: 100%; display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif" style="width: 300px; height: auto;">
-    <img src="https://th.bing.com/th/id/OIP.SB-Ul9Zgc3Z6mPu-P0SC8wAAAA?rs=1&pid=ImgDetMain&cb=idpwebpc2" style="width: 300px; height: auto;">
   </div>
 </div>
 
