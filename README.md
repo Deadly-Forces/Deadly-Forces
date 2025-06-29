@@ -4,9 +4,6 @@
   </div>
 </div>
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=Deadly-Forces&&style=flat-square" align="center" />
-</div>
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
     <p>I’m currently learning JavaScript / Advanced Python.</p>
