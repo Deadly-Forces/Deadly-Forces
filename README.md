@@ -27,9 +27,6 @@
 ---
 
 ## 🔥 **ABOUT ME - THE EPIC JOURNEY**
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVjr/giphy.gif" width="300" alt="Coding animation" />
-
 ```yaml
 🎯 MISSION:
   - Build scalable, impactful applications
