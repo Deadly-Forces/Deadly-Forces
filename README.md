@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="35" /> **ABOUT ME - THE EPIC JOURNEY**
+## 🔥 **ABOUT ME - THE EPIC JOURNEY**
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVjr/giphy.gif" width="300" alt="Coding animation" />
 
@@ -58,7 +58,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> **TECH ARSENAL**
+## 🚀 **TECH ARSENAL**
 
 <div align="center">
   <a href="https://linkedin.com/in/nikunj-kaslikar" target="_blank">
