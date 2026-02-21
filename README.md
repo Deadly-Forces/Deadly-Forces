@@ -120,12 +120,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/Deadly-Forces">
-    <img width="49%" height="195px" src="https://github-readme-stats-git-main-anurag90s-projects.vercel.app/api?username=Deadly-Forces&show_icons=true&count_private=true&theme=radical&line_height=27&hide_border=true&ring_color=00FF00" alt="Deadly-Forces's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Deadly-Forces">
-    <img width="49%" height="195px" src="https://github-readme-stats-git-main-anurag90s-projects.vercel.app/api/top-langs/?username=Deadly-Forces&layout=compact&theme=radical&hide_border=true" alt="Deadly-Forces's Top Languages" />
-  </a>
+
 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Deadly-Forces&theme=radical&hide_border=true&ring_color=00FF00" alt="GitHub Streak" />
 
