@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/nikunj_kaslikar06/profilecard/?igsh=NmQzdjB1aGFoajM0" target="_blank">
+  <a href="https://www.instagram.com/kaslified/profilecard/?igsh=NmQzdjB1aGFoajM0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
