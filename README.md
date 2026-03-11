@@ -44,11 +44,6 @@
   ✅ Mentor upcoming developers
   ✅ Master DevOps & Cloud Architecture
   
-🎮 FUN FACTS:
-  🔥 Code at 3 AM for the best ideas!
-  🎵 Music + Coffee + Code = MAGIC
-  🌱 Every bug is a learning opportunity
-  💡 I believe in: Think Big, Start Small, Stay Consistent
 ```
 
 <br clear="both"/>
@@ -231,8 +226,6 @@
 > 🤝 **Open to:** Contributing to impactful open-source projects
 >
 > 💬 **Talk to me about:** Programming, tech stack, best practices
->
-> 🎮 **Fun fact:** Debugging at 3 AM > Coffee at 6 AM ☕
 
 </div>
 
