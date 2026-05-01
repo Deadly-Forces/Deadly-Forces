@@ -2,14 +2,7 @@
 
 <!-- EPIC ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6&height=300&section=header&text=👨‍💻%20NIKUNJ%20KASLIKAR&fontSize=70&fontColor=fff&fontAlignY=40&desc=🚀%20Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Code%20Architect&descSize=25&descAlignY=65&animation=twinkling" width="100%" alt="Header" />
-</div>
-
-<!-- ANIMATED INTRO TEXT -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Building+amazing+things+with+code;🎯+From+zero+to+hero+in+programming;🔥+Passionate+about+open+source;⚡+Always+learning,+always+growing&font=Fira+Code&center=true&size=20&color=00FF00&delay=10" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6&height=300&section=header&text=👨‍💻%20NIKUNJ%20KASLIKAR&fontSize=70&fontColor=fff&fontAlignY=40&descSize=25&descAlignY=65&animation=twinkling" width="100%" alt="Header" />
 </div>
 
 <br/>
@@ -86,27 +79,9 @@
 ### 🌐 **FRAMEWORKS & LIBRARIES**
 ![REST API](https://img.shields.io/badge/REST%20APIs-00A86B?style=for-the-badge&logoColor=white&labelColor=1F1F1F)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=1F1F1F)
-![DOM](https://img.shields.io/badge/DOM-FFD700?style=for-the-badge&logoColor=black&labelColor=1F1F1F)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=1F1F1F)
 
 </div>
-
----
-
-## 🎓 **LEARNING ROADMAP 2026**
-
-<div align="center">
-
-| Phase | Goal | Status |
-|-------|------|--------|
-| 🔵 **Phase 1** | Master Advanced Python & JavaScript | 🔄 In Progress |
-| 🔵 **Phase 2** | Full-Stack Web Development | 📋 Planned |
-| 🔵 **Phase 3** | DevOps & Cloud Architecture | 📋 Planned |
-| 🔵 **Phase 4** | Open-Source Leadership | 📋 Planned |
-
-</div>
-
----
 
 ## 📊 **PERFORMANCE METRICS**
 
@@ -163,34 +138,6 @@
   </a>
 
 </div>
-
----
-
-## ⚡ **DEVELOPER'S MINDSET**
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║  "Code is poetry written in a language machines understand"║
-║                                                           ║
-║  I don't just write code - I architect solutions         ║
-║  Every problem is an opportunity to innovate             ║
-║  Every line of code tells a story                        ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-**My Philosophy:**
-- 💡 Think before you code
-- 🎯 Code with purpose
-- 🔍 Debug with patience
-- 🚀 Deploy with confidence
-- 📚 Learn from failures
-- 🤝 Collaborate with passion
-
-</div>
-
----
 
 ## 📈 **GITHUB ACTIVITY INSIGHTS**
 
