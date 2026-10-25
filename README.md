@@ -78,7 +78,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=10141a" alt="JavaScript" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL%20%2F%20PLpgSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=10141a" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=10141a" alt="SQL" />
   &nbsp;
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=10141a" alt="Bash" />
   &nbsp;
